@@ -7,3 +7,5 @@ to jest linijka 6
 to jest linijka 7
 to jest linijka 8
 to jest linijka 9
+
+to nie jest linijka
